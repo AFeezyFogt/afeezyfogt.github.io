@@ -9,7 +9,7 @@ comments: false
 modified: 2014-12-24
 share: false
 ---
-I'm Thom. A little about me, I'm a subdeacon and work with the teens at my [parish](http://www.stantonytulsa.com), growth guy at [Compose](https://www.compose.io), I cowork at [The Workshop at Made](http://www.theworkshopatmade.com), help the wife with her line of housewares and fine art at [weather&noise](http://www.weatherandnoise.com), run the [Made Shops](http://www.shopatmade.com) and organize [Indie Emporium](http://www.indieemporium.com). I'm an avid reader, beer efficianado, love of theology and history, aspiring coffee snob. I live in Tulsa with the most amazing wife and our two dogs, Tucker and Buddy.
+I'm Austin, a devote follower and committed disciple of Thom. A little about me, I'm a subdeacon and work with the teens at my [parish](http://www.stantonytulsa.com), growth guy at [Compose](https://www.compose.io), I cowork at [The Workshop at Made](http://www.theworkshopatmade.com), help the wife with her line of housewares and fine art at [weather&noise](http://www.weatherandnoise.com), run the [Made Shops](http://www.shopatmade.com) and organize [Indie Emporium](http://www.indieemporium.com). I'm an avid reader, beer efficianado, love of theology and history, aspiring coffee snob. I live in Tulsa with the most amazing wife and our two dogs, Tucker and Buddy.
 
 Still reading? Well, here are some other random tidbits
 My favorite bands are Jimmy Eat World & The Cure
