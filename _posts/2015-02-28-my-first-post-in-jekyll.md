@@ -10,6 +10,5 @@ image:
   creditlink: 
 ---
 
-I'm excited to be launching my first website on Jekyll. I'll be writing here, hopefully frequently. Expect musings about work, marriage, and life in general. Also, lame jokes. 
+I'm excited to be launching my first website on Jekyll. I'll be writing here, hopefully frequently. Expect musings about work, marriage, and life in general. Also, lame jokes. Check back for more updates soon!
 
-Check back for more updates soon!
